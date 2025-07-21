@@ -13,3 +13,8 @@ PHP轻量自动加载及配置
 
 //加载公共函数
 
+->使用
+
+<?php
+require "./auto/base.php";
+
