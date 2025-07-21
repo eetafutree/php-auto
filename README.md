@@ -15,6 +15,5 @@ PHP轻量自动加载及配置
 
 ->使用
 
-<?php
 require "./auto/base.php";
 
